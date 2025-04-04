@@ -1,0 +1,10 @@
+{
+    "TransactionID": 123456,
+    "Amount": 5000,
+    "Latitude": 12.9716,
+    "Longitude": 77.5946,
+    "AvgTransactionAmount": 4500,
+    "TransactionFrequency": 3,
+    "FailedAttempts": 1,
+    "PhoneNumber": 9876543210
+}
